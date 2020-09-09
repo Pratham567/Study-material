@@ -1,63 +1,28 @@
-## Study-material
+## Important Links And References
 
-##### Bash
-
-- [lsof commands](http://www.thegeekstuff.com/2012/08/lsof-command-examples)
-
-
-##### Git Hub
-
-- [Git Pro](https://git-scm.com/book/en/v2/)
-
-- [Editing Readme](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-
-- [Adding SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-
-- [Git hub Education Pack](https://education.github.com/) : To get Access to Make Private Repo.
-
-#### Sql Security
-
-- [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
-
-- [SQL Injection Prevention](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)
-
-- [Time-Based Blind SQL Injection](http://www.sqlinjection.net/time-based/)
-
-- [Blind SQL Injection](https://www.owasp.org/index.php/Blind_SQL_Injection)
-
-- [MyISM Engine](https://dev.mysql.com/doc/refman/5.7/en/myisam-storage-engine.html) | 
-
-#### Apache
-
-- [Apache Server Setup](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
-
-- [Configure Apache Server](https://httpd.apache.org/docs/2.4/configuring.html)
-
-
-#### mySql
-
-- [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04)
-
-- [Collation](https://dev.mysql.com/doc/refman/5.7/en/adding-collation.html)
-
-#### PostGres
-
-- [Tutorial for beginner](https://www.tutorialspoint.com/postgresql/index.htm)
-
-- [Manage Roles and Users](https://www.postgresql.org/docs/8.1/static/user-manag.html)
-
-#### CSRF
-
-- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-- [Cross Site Request Frogery](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
-
-- [CSRF Prevention](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet)
+- [Data Science project flow for startups](https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d)
 
 #### Sockets
 
 - [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) allows communications between two different processes on the same or different machines.
 
-#### JS
+#### Common
 
-- [Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
+- [Set Up an EmailID that Uses Your Domain Name (for eg : info@a.com)](https://problogger.com/how-to-set-up-an-email-account-that-uses-your-domain-name/)
+- [HTML Minifier](https://www.willpeavy.com/minifier/)
+- [JS Unminify](https://unminify.com/)
+
+- [SDLC Models](https://www.testbytes.net/blog/types-software-testing-models/)
+- [How does Internet works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+
+#### OpenFoam
+
+- [Installation in Ubuntu](https://www.cfdsupport.com/install-openfoam-in-box.html)
+- [Intro to CFD](https://www.youtube.com/watch?v=mGSUIXye9j4&list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
+- [Commands for lamps](https://lammps.sandia.gov/doc/commands_list.html)
+- [Flow Around Cylinder Cut](https://www.openfoam.com/documentation/tutorial-guide/tutorialse3.php)
+- [OpenFoam Documentation Tutorials](https://wiki.openfoam.com/Tutorials)
+- [Openfoam Category wise Tutorials](https://wiki.openfoam.com/Categories)
+- [Steady-state simulation of incompressible laminar or turbulent flow](https://rheologic.net/sites/default/files/pdf/taylor_couette_tutorial-20160913.pdf)
+
+-[Writing markdown](https://en.support.wordpress.com/markdown-quick-reference/)
